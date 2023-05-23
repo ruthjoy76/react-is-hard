@@ -1,34 +1,3 @@
 {
-  "notes": [
-    {
-      "id": 1,
-      "content": "Wake up!",
-      "important": true
-    },
-    {
-      "id": 2,
-      "content": "Laundry",
-      "important": false
-    },
-    {
-      "id": 3,
-      "content": "Cooking",
-      "important": false
-    },
-    {
-      "content": "sleep",
-      "important": true,
-      "id": 4
-    },
-    {
-      "content": "Eat",
-      "important": true,
-      "id": 5
-    },
-    {
-      "content": "Code",
-      "important": true,
-      "id": 6
-    }
-  ]
+  "notes": []
 }
